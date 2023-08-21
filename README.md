@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kevin-benjamin
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning JavaScript and React
+- 👋 Hi, I’m @Kevin-benjamin.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning JavaScript, React, and Next.
 - 💞️ I’m looking to collaborate on projects
 - 📫 Email: benjaminkevin18@gmail.com
 
